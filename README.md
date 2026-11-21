@@ -2,7 +2,7 @@
 
 **Full Stack Developer (backend-focused)** building systems for fintech and crypto operations in Brazil.
 
-I started on a crypto OTC trading desk and moved into building the systems behind it. Today I'm responsible for the platforms of an OTC company: a Rust core system, an OTC trading backend, the frontend, and the integrations that move money between them.
+I started on a crypto OTC trading desk. Working the operation every day, I saw what was slow, manual and error-prone, so I started building the systems to fix it. That's how I became a developer: today I'm responsible for the platforms of an OTC company (a Rust core system, an OTC trading backend, the frontend, and the integrations that move money between them), built to make the operation faster and more efficient.
 
 ### What I work on
 - 💸 **PIX & banking/BaaS integrations**: balances, sub-accounts, automated withdrawals, reconciliation
